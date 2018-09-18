@@ -3,6 +3,9 @@ import NavBar from './components/navbar';
 import './App.css';
 import Counters from './components/counters.jsx';
 
+/**
+* @author ankit
+*/
 class App extends Component {
   state = {
     counters: [
